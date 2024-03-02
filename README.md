@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kyliejoycodes
-- 🌱 I’m a University of Waterloo COmputer Engineering student, currently learning ML and AI, and frontend web dev!
+- 🌱 I’m a University of Waterloo Computer Engineering student, currently learning ML and AI, and frontend web dev!
 - 🌱 Follow me on instagram: kylie_morgan._
 
 
